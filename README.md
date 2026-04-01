@@ -1,4 +1,4 @@
-# 🚗 Electric Vehicle Data Analysis Dashboard (Power BI)
+<img width="1340" height="751" alt="image" src="https://github.com/user-attachments/assets/6b5c72e3-b99a-4bed-b681-d7ccde926baa" /># 🚗 Electric Vehicle Data Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
 
@@ -77,13 +77,12 @@ git clone https://github.com/yourusername/electric-vehicle-powerbi-dashboard.git
 
 ## 📷 Dashboard Preview
 
-*(Add a screenshot of your Power BI dashboard here)*
+<img width="1340" height="751" alt="image" src="https://github.com/user-attachments/assets/d61fbb45-4a5d-4d6d-a78a-c813c7a3060e" />
+<img width="1343" height="750" alt="image" src="https://github.com/user-attachments/assets/67428536-b916-4aaa-bdbb-b42c6bf2617a" />
+<img width="1347" height="751" alt="image" src="https://github.com/user-attachments/assets/1bedb436-a58d-4fa7-bf07-e52fecfbfc22" />
 
-Example:
 
-```
-![Dashboard Screenshot](dashboard.png)
-```
+
 
 ---
 
