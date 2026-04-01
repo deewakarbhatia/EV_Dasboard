@@ -1,85 +1,83 @@
-# 📊 Power BI Data Analysis Dashboard
+# 🚗 Electric Vehicle Data Analysis Dashboard (Power BI)
 
-An interactive **Power BI Dashboard** designed to transform raw data into meaningful insights using advanced visualization and analytics techniques.
+## 📊 Project Overview
 
-This project demonstrates how **business intelligence tools like Microsoft Power BI** can be used to analyze datasets, track key performance indicators, and support data-driven decision making.
+This project presents an **interactive Power BI dashboard** that analyzes trends and insights in the **Electric Vehicle (EV) market**.
+The dashboard helps visualize EV adoption patterns, manufacturer performance, and regional distribution using powerful data analytics techniques.
 
----
-
-## 🚀 Project Overview
-
-The dashboard provides an interactive platform for analyzing data through various visualizations such as charts, graphs, and KPI indicators.
-
-It allows users to:
-
-* Explore data patterns
-* Understand trends
-* Filter information dynamically
-* Gain actionable insights from datasets
+The goal of this project is to transform raw EV data into **meaningful insights through data visualization and business intelligence tools**.
 
 ---
 
-## 🛠️ Technologies Used
+## 🎯 Objectives
+
+* Analyze **Electric Vehicle adoption trends**
+* Identify **top EV manufacturers**
+* Study **regional EV distribution**
+* Provide **interactive insights through Power BI dashboards**
+
+---
+
+## 🛠 Tools & Technologies Used
 
 * **Microsoft Power BI**
+* **Data Visualization**
 * **Data Modeling**
 * **DAX (Data Analysis Expressions)**
-* **Data Transformation**
-* **Data Visualization**
+* **Data Cleaning & Transformation**
 
 ---
 
 ## 📂 Project Structure
 
 ```
-PowerBI-Dashboard-Project
+Electric-Vehicle-PowerBI-Dashboard
 │
-├── powerbi_ca1.pbix      # Power BI Dashboard File
-├── README.md             # Project Documentation
+├── powerbi_ca1.pbix        # Power BI Dashboard File
+├── dataset.csv             # Dataset used for analysis (if included)
+└── README.md               # Project documentation
 ```
 
 ---
 
-## 📊 Dashboard Features
+## 📈 Dashboard Features
 
-* 📈 Interactive charts and graphs
-* 🎯 KPI tracking
-* 🔎 Data filtering using slicers
-* 📉 Trend analysis
-* 📊 Business insights through visual reports
-
----
-
-## 💡 Key Insights
-
-The dashboard helps in:
-
-* Identifying important patterns within the dataset
-* Tracking performance indicators
-* Understanding relationships between variables
-* Supporting strategic decision making
+* Interactive charts and visual reports
+* EV adoption trend analysis
+* Manufacturer performance insights
+* Regional EV distribution analysis
+* KPI indicators and summary statistics
 
 ---
 
-## ⚡ How to Run the Project
+## 📊 Key Insights
 
-1. Clone the repository
+* Electric vehicle adoption has increased significantly in recent years.
+* Some manufacturers dominate the EV market.
+* EV distribution varies across regions.
+* Data visualization helps understand market trends more effectively.
+
+---
+
+## 🚀 How to Use
+
+1. Download or clone this repository
 
 ```
-git clone https://github.com/yourusername/powerbi-dashboard-project.git
+git clone https://github.com/yourusername/electric-vehicle-powerbi-dashboard.git
 ```
 
-2. Download and install **Microsoft Power BI Desktop**
+2. Install **Microsoft Power BI Desktop**
 
-3. Open the `.pbix` file in Power BI Desktop
+3. Open the `.pbix` file using Power BI Desktop
 
-4. Explore the dashboard and interact with filters & visuals
+4. Explore the interactive dashboard and insights
 
 ---
 
 ## 📷 Dashboard Preview
 
-*(Add screenshot of your Power BI dashboard here)*
+*(Add a screenshot of your Power BI dashboard here)*
 
 Example:
 
@@ -89,12 +87,12 @@ Example:
 
 ---
 
-## 🎯 Learning Outcomes
+## 🎓 Learning Outcomes
 
-* Practical experience with **Power BI**
-* Understanding of **data visualization principles**
-* Hands-on practice with **data modeling and DAX**
-* Ability to convert **raw data into meaningful insights**
+* Hands-on experience with **Power BI dashboards**
+* Understanding of **data visualization techniques**
+* Practical knowledge of **data modeling and DAX**
+* Ability to transform **raw data into actionable insights**
 
 ---
 
@@ -105,6 +103,6 @@ B.Tech Computer Science Engineering Student
 
 ---
 
-## ⭐ If you like this project
+## ⭐ Support
 
-Give it a ⭐ on GitHub and feel free to contribute!
+If you like this project, please **give it a star ⭐ on GitHub**.
